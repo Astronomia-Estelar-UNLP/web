@@ -5,9 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Astronomía Estelar | Programa</title>
   <meta name="description" content="Programa y contenidos de Astronomía Estelar, migrados localmente desde la wiki histórica.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
@@ -22,17 +19,8 @@
         <a href="trabajos-practicos.html">Trabajos prácticos</a>
         <a href="material-complementario.html">Material complementario</a>
       </nav>
-      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false" onclick="toggleNav(this)">
-        <span></span><span></span><span></span>
-      </button>
     </div>
   </header>
-
-  <nav class="nav-drawer" id="nav-drawer" aria-label="Menú móvil">
-    <a href="programa.html" aria-current="page">Programa</a>
-    <a href="trabajos-practicos.html">Trabajos prácticos</a>
-    <a href="material-complementario.html">Material complementario</a>
-  </nav>
 
   <main class="section page-shell">
     <div class="container prose">
@@ -371,21 +359,9 @@
         <div class="callout">
           <strong>Más monografías:</strong>
           <a href="pbworks-export/pages/152271309__astronomiaestelarlp__licensed_for_non-commercial_use_only_.html" target="_blank" rel="noreferrer">abrir índice histórico de monografías</a>.
+        </div>
+      </section>
     </div>
   </main>
-
-  <footer class="site-footer">
-    <div class="container footer-shell">
-      <p>Astronomía Estelar · FCAGLP · UNLP</p>
-      <p><a href="https://github.com/Astronomia-Estelar-UNLP/web" target="_blank" rel="noreferrer">github.com/Astronomia-Estelar-UNLP/web</a></p>
-    </div>
-  </footer>
-  <script>
-    function toggleNav(btn) {
-      var drawer = document.getElementById('nav-drawer');
-      var open = drawer.classList.toggle('open');
-      btn.setAttribute('aria-expanded', open);
-    }
-  </script>
 </body>
 </html>

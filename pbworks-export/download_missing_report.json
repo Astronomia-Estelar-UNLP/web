@@ -1,0 +1,182 @@
+{
+  "pages": {
+    "success": 0,
+    "fail": 30,
+    "failures": [
+      {
+        "id": "127810650",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603782",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "130425858",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109721302",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603764",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "134844459",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603839",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109782670",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603806",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "106869723",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109783576",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "134894835",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603716",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "142483752",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "142478469",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "127329902",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "139102686",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109367761",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109708060",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109716019",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "134514273",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "130640262",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603800",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109900978",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603809",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "145603863",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "140794935",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "110316421",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "152271309",
+        "error": "Status 200 or Login Redirect"
+      },
+      {
+        "id": "109909228",
+        "error": "Status 200 or Login Redirect"
+      }
+    ]
+  },
+  "files": {
+    "success": 0,
+    "fail": 12,
+    "failures": [
+      {
+        "id": "108649141",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "108649132",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "107272074",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "107228610",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "149560386",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "107228625",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "145751175",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "108379330",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "107347584",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "107632047",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "108281494",
+        "error": "Failed all URL attempts"
+      },
+      {
+        "id": "115643956",
+        "error": "Failed all URL attempts"
+      }
+    ]
+  }
+}

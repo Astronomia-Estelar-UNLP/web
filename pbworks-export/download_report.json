@@ -1,0 +1,16 @@
+{
+  "pages_total": 36,
+  "pages_ok": 36,
+  "pages_failed": 0,
+  "files_total": 366,
+  "files_ok": 365,
+  "files_failed": 0,
+  "failed_items": [],
+  "files_omitted": 1,
+  "omitted_items": [
+    {
+      "url": "http://astronomiaestelarlp.pbworks.com/w/file/fetch/113897152/t2png.gif",
+      "reason": "Server returns HTML/redirect instead of GIF"
+    }
+  ]
+}

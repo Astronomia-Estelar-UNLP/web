@@ -1,10 +1,12 @@
-# Astronomía Estelar · Migración del sitio
+# Astronomía Estelar · FCAGLP · UNLP
 
-Base local para migrar la antigua wiki de la cátedra a un repositorio versionado y publicable.
+Sitio de la cátedra de Astronomía Estelar de la Facultad de Ciencias Astronómicas y Geofísicas de la UNLP.
 
-## Objetivo
+Publicado en [GitHub Pages](https://astronomia-estelar-unlp.github.io/web/).
 
-Desacoplar el contenido de PBworks y reconstruir el sitio de la cátedra en un formato estático simple, fácil de subir luego a GitHub.
+## Contenido
+
+Programa de la materia, trabajos prácticos, material complementario y recursos de la cursada.
 
 ## Estructura
 
